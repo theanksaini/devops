@@ -1,2 +1,3 @@
 "This is file B" 
  Version 1 - Branch Feature
+version 2 - Master
